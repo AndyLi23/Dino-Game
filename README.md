@@ -1,2 +1,2 @@
 # Dino-Game
-Dino game with pygame (will add AI later)
+Dino game with pygame with evolutionary algorithm for AI
